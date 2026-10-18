@@ -1,0 +1,294 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "products": "Products",
+    "customers": "Our Clients",
+    "contact": "Contact",
+    "requestQuote": "Request Quote"
+  },
+  "hero": {
+    "tagline": "Cooling, Heating & Comfort Solutions for Kenya",
+    "subtitle": "Expert HVAC installations, maintenance, and product supply across Nyanza, Western, Central, Nairobi & Rift Valley regions.",
+    "ctaQuote": "Request a Quote",
+    "ctaContact": "Contact Us"
+  },
+  "about": {
+    "sectionLabel": "About Us",
+    "heading": "Senior Technician-Led HVAC Expertise",
+    "body": "CaloWet Air is a professional HVAC company founded and led by senior certified technicians with over a decade of hands-on experience. We serve homes, hotels, corporate offices, and real estate developments across Nyanza, Western, Central, Nairobi, and Rift Valley regions.",
+    "mission": "Our mission is to deliver reliable installations, smart product guidance, and long-term maintenance for every client — from a single home unit to a full commercial cooling system.",
+    "stats": {
+      "regions": "5 Regions Covered",
+      "experience": "10+ Years Experience",
+      "clients": "Trusted by Hundreds"
+    },
+    "values": {
+      "title": "Why Choose CaloWet Air?",
+      "items": [
+        {
+          "title": "Certified Technicians",
+          "body": "Every installation and service is handled by senior technicians with industry certifications and proven field experience."
+        },
+        {
+          "title": "Genuine Equipment",
+          "body": "We stock and install only genuine HVAC products from verified brands — no counterfeits, no shortcuts."
+        },
+        {
+          "title": "Regional Coverage",
+          "body": "Headquartered to serve Nyanza, Western, Central, Nairobi, and Rift Valley — we go where competitors don't."
+        },
+        {
+          "title": "End-to-End Service",
+          "body": "From consultation and supply to installation, commissioning, and ongoing maintenance — one partner for everything."
+        }
+      ]
+    },
+    "missionLabel": "Our Mission",
+    "coverageLabel": "Coverage",
+    "coverageRegions": [
+      "Nyanza Region",
+      "Western Kenya",
+      "Central Kenya",
+      "Nairobi",
+      "Rift Valley"
+    ]
+  },
+  "services": {
+    "sectionLabel": "What We Do",
+    "heading": "Our Services",
+    "subheading": "End-to-end HVAC solutions from consultation to long-term support.",
+    "ctaService": "Request This Service",
+    "processTitle": "How We Work",
+    "processSteps": [
+      {
+        "step": "01",
+        "title": "Consultation",
+        "body": "We assess your space, needs and budget to recommend the right system."
+      },
+      {
+        "step": "02",
+        "title": "Supply",
+        "body": "We source genuine equipment from verified brands at competitive prices."
+      },
+      {
+        "step": "03",
+        "title": "Installation",
+        "body": "Certified technicians handle the full installation and commissioning."
+      },
+      {
+        "step": "04",
+        "title": "Support",
+        "body": "Scheduled maintenance contracts and emergency response keep you running."
+      }
+    ],
+    "items": {
+      "installation": {
+        "title": "Installation",
+        "description": "Professional installation of air conditioners, refrigeration systems, and heating units for homes, hotels, offices, and commercial premises.",
+        "features": [
+          "Split & cassette AC units",
+          "VRF / VRV central systems",
+          "Refrigeration & cold rooms",
+          "Heating & heat pump systems"
+        ]
+      },
+      "sales": {
+        "title": "Product Sales",
+        "description": "Curated selection of genuine HVAC equipment from leading brands — Daikin, LG, Samsung, Carrier, Bitzer, and more.",
+        "features": [
+          "Daikin · LG · Samsung",
+          "Carrier · Midea · Bitzer",
+          "Residential & commercial",
+          "Manufacturer warranties"
+        ]
+      },
+      "maintenance": {
+        "title": "Maintenance & Support",
+        "description": "Scheduled servicing, emergency repairs, and preventive maintenance to keep your systems running at peak performance.",
+        "features": [
+          "Scheduled service contracts",
+          "24hr emergency response",
+          "Filter & refrigerant service",
+          "Performance optimisation"
+        ]
+      },
+      "consultation": {
+        "title": "Consultation",
+        "description": "Expert guidance to help you choose the right HVAC system for your space, budget, and energy efficiency goals.",
+        "features": [
+          "Site survey & load calc",
+          "Energy efficiency advice",
+          "Brand & model selection",
+          "ROI & cost projections"
+        ]
+      }
+    }
+  },
+  "products": {
+    "sectionLabel": "Product Catalog",
+    "heading": "Our Products",
+    "subheading": "Quality HVAC equipment for every need — residential, commercial, and industrial.",
+    "requestQuote": "Request Quote",
+    "viewAll": "View All Products",
+    "filterAll": "All Products",
+    "filterAC": "Air Conditioners",
+    "filterRefrigeration": "Refrigeration",
+    "filterCommercial": "Commercial",
+    "filterVentilation": "Ventilation",
+    "featured": "Featured",
+    "brand": "Brand",
+    "modalTitle": "Request a Quote",
+    "modalSubtitle": "Fill in your details and we'll get back to you with pricing within 24 hours.",
+    "modalProduct": "Product of Interest",
+    "modalName": "Full Name",
+    "modalNamePlaceholder": "John Kamau",
+    "modalPhone": "Phone Number",
+    "modalPhonePlaceholder": "+254 7XX XXX XXX",
+    "modalMessage": "Additional Requirements",
+    "modalMessagePlaceholder": "Room size, quantity needed, installation preference...",
+    "modalSubmit": "Send Quote Request",
+    "modalClose": "Close",
+    "modalSuccess": "Quote request sent! We'll contact you within 24 hours.",
+    "items": {
+      "splitAc": {
+        "name": "Split Unit Air Conditioner",
+        "description": "Wall-mounted split AC units ideal for bedrooms, offices, and living spaces. Energy-efficient inverter technology. Available in 1HP to 3HP."
+      },
+      "cassetteAc": {
+        "name": "Cassette Air Conditioner",
+        "description": "Ceiling-mounted cassette units perfect for commercial spaces, hotel rooms, and open-plan offices. 360° airflow distribution."
+      },
+      "commercialFridge": {
+        "name": "Commercial Refrigerator",
+        "description": "Heavy-duty commercial refrigerators for restaurants, hotels, supermarkets, and food-service operations. Multiple size options."
+      },
+      "chestFreezer": {
+        "name": "Chest & Upright Freezer",
+        "description": "Deep freezers for food storage, cold rooms, pharmacies, and flower preservation. Reliable temperature control."
+      },
+      "vrfSystem": {
+        "name": "VRF / VRV Central System",
+        "description": "Variable Refrigerant Flow systems for large commercial buildings, real estate complexes, and hotels requiring centralized climate control."
+      },
+      "ventilation": {
+        "name": "Mechanical Ventilation",
+        "description": "Commercial kitchen hoods, exhaust fans, and full ventilation systems for restaurants, warehouses, factories, and offices."
+      }
+    }
+  },
+  "customers": {
+    "sectionLabel": "Who We Serve",
+    "heading": "Our Target Clients",
+    "subheading": "Tailored HVAC solutions for every sector across Kenya.",
+    "ctaLabel": "Get a Custom Quote",
+    "items": {
+      "homes": {
+        "title": "Homes & Residences",
+        "description": "Comfortable, energy-efficient cooling and heating solutions for single rooms, apartments, and family homes.",
+        "points": [
+          "Split & window AC units",
+          "Energy-saving inverter systems",
+          "Quiet bedroom-grade units",
+          "Home maintenance plans"
+        ]
+      },
+      "hotels": {
+        "title": "Hotels & Hospitality",
+        "description": "Guest-focused HVAC systems that ensure comfort, reliability, and energy savings across all hotel rooms and common areas.",
+        "points": [
+          "Per-room climate control",
+          "Central VRF systems",
+          "Lobby & dining cooling",
+          "24hr emergency support"
+        ]
+      },
+      "offices": {
+        "title": "Corporate Offices",
+        "description": "Professional climate control for open-plan offices, boardrooms, server rooms, and corporate campuses.",
+        "points": [
+          "Open-plan cooling solutions",
+          "Server room precision AC",
+          "Boardroom comfort systems",
+          "Scheduled maintenance contracts"
+        ]
+      },
+      "realestate": {
+        "title": "Real Estate Partnerships",
+        "description": "End-to-end HVAC supply and installation for residential and commercial real estate developments across Kenya.",
+        "points": [
+          "Bulk supply & install deals",
+          "Developer partnership pricing",
+          "Full project commissioning",
+          "Handover & warranty support"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "sectionLabel": "Get In Touch",
+    "heading": "Contact Us",
+    "subheading": "Have a project in mind? Send us a message and our team will get back to you within 24 hours.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "John Kamau",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+254 7XX XXX XXX",
+      "message": "Message / Request",
+      "messagePlaceholder": "Tell us about your HVAC needs, the size of your space, or any specific products you're interested in...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you for reaching out! Our team will contact you shortly.",
+      "error": "Something went wrong. Please try again or call us directly."
+    },
+    "info": {
+      "coverage": "Serving Nyanza, Western, Central, Nairobi & Rift Valley",
+      "phone": "+254 717 124 523",
+      "email": "info@calowetair.co.ke",
+      "responseTime": "We respond within 24 hours",
+      "whatsapp": "Chat on WhatsApp",
+      "callUs": "Call Us Directly",
+      "emailUs": "Send an Email",
+      "findUs": "Our Coverage Area"
+    }
+  },
+  "footer": {
+    "tagline": "Cooling, Heating & Comfort Solutions for Kenya",
+    "coverage": "Serving Nyanza, Western, Central, Nairobi & Rift Valley",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "madeIn": "Made in Kenya 🇰🇪",
+    "company": "Company",
+    "services": "Services",
+    "contactTitle": "Contact Us",
+    "description": "Senior technician-led HVAC company delivering reliable cooling, heating and comfort solutions across Kenya's regions.",
+    "newsletter": "Stay Updated",
+    "newsletterSub": "Get tips on energy saving & HVAC maintenance.",
+    "emailPlaceholder": "your@email.com",
+    "subscribe": "Subscribe",
+    "regions": "Coverage Regions",
+    "regionList": [
+      "Nyanza",
+      "Western",
+      "Central",
+      "Rift Valley"
+    ],
+    "servicesLinks": [
+      "Installation",
+      "Product Sales",
+      "Maintenance",
+      "Consultation"
+    ],
+    "companyLinks": [
+      "About Us",
+      "Our Clients",
+      "Products",
+      "Contact"
+    ],
+    "certifiedBy": "Certified HVAC Professionals"
+  }
+}

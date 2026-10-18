@@ -1,0 +1,294 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "services": "Huduma",
+    "products": "Bidhaa",
+    "customers": "Wateja Wetu",
+    "contact": "Wasiliana",
+    "requestQuote": "Omba Bei"
+  },
+  "hero": {
+    "tagline": "Suluhisho za Kupoza, Kupasha Joto & Starehe kwa Kenya",
+    "subtitle": "Ufungaji wa kitaalamu wa HVAC, matengenezo, na usambazaji wa bidhaa katika maeneo ya Nyanza, Magharibi, Kati, Nairobi na Bonde la Ufa.",
+    "ctaQuote": "Omba Bei",
+    "ctaContact": "Wasiliana Nasi"
+  },
+  "about": {
+    "sectionLabel": "Kuhusu Sisi",
+    "heading": "Ujuzi wa HVAC Unaoongozwa na Mafundi Wakuu",
+    "body": "CaloWet Air ni kampuni ya kitaalamu ya HVAC iliyoanzishwa na kuongozwa na mafundi wakuu wenye cheti na uzoefu wa zaidi ya miaka kumi. Tunahudumia nyumba, hoteli, ofisi za kampuni, na miradi ya majengo katika maeneo ya Nyanza, Magharibi, Kati, Nairobi na Bonde la Ufa.",
+    "mission": "Dhamira yetu ni kutoa ufungaji wa kuaminika, mwongozo wa bidhaa, na matengenezo ya muda mrefu kwa kila mteja — kutoka kitengo kimoja cha nyumbani hadi mfumo kamili wa kupoza kibiashara.",
+    "stats": {
+      "regions": "5 Regions Covered",
+      "experience": "Uzoefu wa Miaka 10+",
+      "clients": "Wateja Wanaotuamini"
+    },
+    "values": {
+      "title": "Kwa Nini Uchague CaloWet Air?",
+      "items": [
+        {
+          "title": "Mafundi Wenye Cheti",
+          "body": "Kila ufungaji na huduma unafanywa na mafundi wakuu wenye vyeti vya tasnia na uzoefu wa uwanjani uliothibitishwa."
+        },
+        {
+          "title": "Vifaa Halisi",
+          "body": "Tunaweka na kufunga bidhaa za HVAC halisi tu kutoka kwa brands zilizothibitishwa — hakuna bandia, hakuna mikato."
+        },
+        {
+          "title": "Chanjo ya Kikanda",
+          "body": "Makao makuu yaliyowekwa kuhudumia Nyanza, Magharibi, Kati na Bonde la Ufa — tunakwenda ambapo makampuni ya Nairobi hayaendi."
+        },
+        {
+          "title": "Huduma ya Mwisho hadi Mwisho",
+          "body": "Kuanzia ushauri na usambazaji hadi ufungaji, uwekaji na matengenezo yanayoendelea — mshirika mmoja kwa kila kitu."
+        }
+      ]
+    },
+    "missionLabel": "Dhamira Yetu",
+    "coverageLabel": "Chanjo",
+    "coverageRegions": [
+      "Mkoa wa Nyanza",
+      "Kenya Magharibi",
+      "Kenya Kati",
+      "Nairobi",
+      "Bonde la Ufa"
+    ]
+  },
+  "services": {
+    "sectionLabel": "Tunachofanya",
+    "heading": "Huduma Zetu",
+    "subheading": "Suluhisho kamili za HVAC kuanzia ushauri hadi usaidizi wa muda mrefu.",
+    "ctaService": "Omba Huduma Hii",
+    "processTitle": "Jinsi Tunavyofanya Kazi",
+    "processSteps": [
+      {
+        "step": "01",
+        "title": "Ushauri",
+        "body": "Tunatathmini nafasi yako, mahitaji na bajeti ili kupendekeza mfumo sahihi."
+      },
+      {
+        "step": "02",
+        "title": "Usambazaji",
+        "body": "Tunanunua vifaa halisi kutoka kwa brands zilizothibitishwa kwa bei shindani."
+      },
+      {
+        "step": "03",
+        "title": "Ufungaji",
+        "body": "Mafundi wenye cheti wanashughulikia ufungaji na uwekaji kamili."
+      },
+      {
+        "step": "04",
+        "title": "Usaidizi",
+        "body": "Mikataba ya matengenezo ya mara kwa mara na majibu ya dharura hukuendesha."
+      }
+    ],
+    "items": {
+      "installation": {
+        "title": "Ufungaji",
+        "description": "Ufungaji wa kitaalamu wa viyoyozi, mifumo ya jokofu, na vitengo vya kupasha joto.",
+        "features": [
+          "Vitengo vya split na cassette",
+          "Mifumo ya kati ya VRF/VRV",
+          "Jokofu na vyumba baridi",
+          "Mifumo ya kupasha joto"
+        ]
+      },
+      "sales": {
+        "title": "Mauzo ya Bidhaa",
+        "description": "Uchaguzi wa bidhaa halisi za HVAC kutoka kwa brands zinazoongoza.",
+        "features": [
+          "Daikin · LG · Samsung",
+          "Carrier · Midea · Bitzer",
+          "Makazi na kibiashara",
+          "Dhamana za mtengenezaji"
+        ]
+      },
+      "maintenance": {
+        "title": "Matengenezo na Usaidizi",
+        "description": "Huduma za mara kwa mara, ukarabati wa dharura, na matengenezo ya kuzuia.",
+        "features": [
+          "Mikataba ya huduma",
+          "Majibu ya dharura 24hr",
+          "Huduma ya filicha na friji",
+          "Uboreshaji wa utendaji"
+        ]
+      },
+      "consultation": {
+        "title": "Ushauri",
+        "description": "Mwongozo wa kitaalamu wa kukusaidia kuchagua mfumo sahihi wa HVAC.",
+        "features": [
+          "Utafiti wa eneo na mahesabu",
+          "Ushauri wa ufanisi wa nishati",
+          "Uchaguzi wa brand na modeli",
+          "Makadirio ya ROI na gharama"
+        ]
+      }
+    }
+  },
+  "products": {
+    "sectionLabel": "Katalogi ya Bidhaa",
+    "heading": "Bidhaa Zetu",
+    "subheading": "Vifaa vya HVAC vya ubora kwa kila haja — makazi, biashara, na viwanda.",
+    "requestQuote": "Omba Bei",
+    "viewAll": "Angalia Bidhaa Zote",
+    "filterAll": "Bidhaa Zote",
+    "filterAC": "Viyoyozi",
+    "filterRefrigeration": "Jokofu",
+    "filterCommercial": "Kibiashara",
+    "filterVentilation": "Uingizaji Hewa",
+    "featured": "Maarufu",
+    "brand": "Brand",
+    "modalTitle": "Omba Bei",
+    "modalSubtitle": "Jaza maelezo yako na tutakurudishia bei ndani ya masaa 24.",
+    "modalProduct": "Bidhaa Unayopenda",
+    "modalName": "Jina Kamili",
+    "modalNamePlaceholder": "John Kamau",
+    "modalPhone": "Nambari ya Simu",
+    "modalPhonePlaceholder": "+254 7XX XXX XXX",
+    "modalMessage": "Mahitaji ya Ziada",
+    "modalMessagePlaceholder": "Ukubwa wa chumba, idadi inayohitajika, upendeleo wa ufungaji...",
+    "modalSubmit": "Tuma Ombi la Bei",
+    "modalClose": "Funga",
+    "modalSuccess": "Ombi la bei limetumwa! Tutawasiliana nawe ndani ya masaa 24.",
+    "items": {
+      "splitAc": {
+        "name": "Kiyoyozi cha Split Unit",
+        "description": "Viyoyozi vya ukutani vinavyofaa kwa vyumba vya kulala, ofisi na sebule. Teknolojia ya inverter ya kuokoa nishati. Zinapatikana 1HP hadi 3HP."
+      },
+      "cassetteAc": {
+        "name": "Kiyoyozi cha Cassette",
+        "description": "Vitengo vya dari vinavyofaa kwa nafasi za kibiashara, vyumba vya hoteli, na ofisi za wazi. Usambazaji wa hewa wa pande 360°."
+      },
+      "commercialFridge": {
+        "name": "Jokofu la Kibiashara",
+        "description": "Majiko mazito ya kibiashara kwa migahawa, hoteli, masupermaket na biashara za chakula. Chaguzi nyingi za ukubwa."
+      },
+      "chestFreezer": {
+        "name": "Friza ya Sanduku na Wima",
+        "description": "Friza za kina kwa uhifadhi wa chakula, vyumba baridi, maduka ya dawa, na uhifadhi wa maua. Udhibiti wa joto wa kuaminika."
+      },
+      "vrfSystem": {
+        "name": "Mfumo wa Kati wa VRF/VRV",
+        "description": "Mifumo ya Variable Refrigerant Flow kwa majengo makubwa ya kibiashara, complexes za majengo, na hoteli."
+      },
+      "ventilation": {
+        "name": "Uingizaji Hewa wa Mitambo",
+        "description": "Kofia za jikoni, mashabiki ya kutolea hewa, na mifumo kamili ya uingizaji hewa kwa migahawa, maghala, viwanda na ofisi."
+      }
+    }
+  },
+  "customers": {
+    "sectionLabel": "Tunaohudumia",
+    "heading": "Wateja Wetu Walengwa",
+    "subheading": "Suluhisho za HVAC zilizoundwa kwa kila sekta nchini Kenya.",
+    "ctaLabel": "Pata Bei Maalum",
+    "items": {
+      "homes": {
+        "title": "Nyumba & Makazi",
+        "description": "Suluhisho za kupoza na kupasha joto za starehe na kuokoa nishati kwa vyumba, vyumba vya ghorofani na nyumba za familia.",
+        "points": [
+          "Vitengo vya split na dirisha",
+          "Mifumo ya inverter ya kuokoa nishati",
+          "Vitengo vya kimya vya chumba",
+          "Mipango ya matengenezo ya nyumbani"
+        ]
+      },
+      "hotels": {
+        "title": "Hoteli & Ukarimu",
+        "description": "Mifumo ya HVAC inayolenga wageni inayohakikisha starehe, uaminifu, na uokoaji wa nishati katika vyumba vyote vya hoteli.",
+        "points": [
+          "Udhibiti wa hali ya hewa kwa kila chumba",
+          "Mifumo ya kati ya VRF",
+          "Kupoza ukumbi na mgahawa",
+          "Usaidizi wa dharura 24hr"
+        ]
+      },
+      "offices": {
+        "title": "Ofisi za Kampuni",
+        "description": "Udhibiti wa kitaalamu wa hali ya hewa kwa ofisi za wazi, vyumba vya mikutano, vyumba vya seva, na campusi za kampuni.",
+        "points": [
+          "Suluhisho za kupoza ofisi za wazi",
+          "AC ya usahihi kwa chumba cha seva",
+          "Mifumo ya starehe ya ukumbi",
+          "Mikataba ya matengenezo ya mara kwa mara"
+        ]
+      },
+      "realestate": {
+        "title": "Ushirikiano wa Majengo",
+        "description": "Usambazaji na ufungaji wa HVAC wa mwisho kwa usanidi wa majengo ya makazi na kibiashara nchini Kenya.",
+        "points": [
+          "Mikataba ya usambazaji na ufungaji wa jumla",
+          "Bei za ushirikiano wa wasanidi",
+          "Uwekaji kamili wa mradi",
+          "Usaidizi wa uwasiliano na dhamana"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "sectionLabel": "Wasiliana",
+    "heading": "Wasiliana Nasi",
+    "subheading": "Una mradi akilini? Tutumie ujumbe na timu yetu itawasiliana nawe ndani ya masaa 24.",
+    "form": {
+      "name": "Jina Kamili",
+      "namePlaceholder": "John Kamau",
+      "email": "Anwani ya Barua Pepe",
+      "emailPlaceholder": "john@mfano.com",
+      "phone": "Nambari ya Simu",
+      "phonePlaceholder": "+254 7XX XXX XXX",
+      "message": "Ujumbe / Ombi",
+      "messagePlaceholder": "Tuambie kuhusu mahitaji yako ya HVAC, ukubwa wa nafasi yako, au bidhaa maalum unazopenda...",
+      "submit": "Tuma Ujumbe",
+      "submitting": "Inatuma...",
+      "success": "Asante kwa kuwasiliana nasi! Timu yetu itawasiliana nawe hivi karibuni.",
+      "error": "Kuna hitilafu. Tafadhali jaribu tena au tupigie simu moja kwa moja."
+    },
+    "info": {
+      "coverage": "Serving Nyanza, Western, Central, Nairobi & Rift Valley",
+      "phone": "+254 717 124 523",
+      "email": "info@calowetair.co.ke",
+      "responseTime": "Tunajibu ndani ya masaa 24",
+      "whatsapp": "Piga Gumzo WhatsApp",
+      "callUs": "Tupigie Simu Moja kwa Moja",
+      "emailUs": "Tuma Barua Pepe",
+      "findUs": "Eneo Letu la Chanjo"
+    }
+  },
+  "footer": {
+    "tagline": "Suluhisho za Kupoza, Kupasha Joto & Starehe kwa Kenya",
+    "coverage": "Serving Nyanza, Western, Central, Nairobi & Rift Valley",
+    "quickLinks": "Viungo vya Haraka",
+    "followUs": "Tufuate",
+    "rights": "Haki zote zimehifadhiwa.",
+    "madeIn": "Imetengenezwa Kenya 🇰🇪",
+    "company": "Kampuni",
+    "services": "Huduma",
+    "contactTitle": "Wasiliana Nasi",
+    "description": "Kampuni ya HVAC inayoongozwa na mafundi wakuu, inayotoa suluhisho za kupoza, kupasha joto na starehe nchini Kenya.",
+    "newsletter": "Pata Habari",
+    "newsletterSub": "Pata vidokezo vya kuokoa nishati na matengenezo ya HVAC.",
+    "emailPlaceholder": "barua@pepe.com",
+    "subscribe": "Jiandikishe",
+    "regions": "Maeneo Yanayohudumia",
+    "regionList": [
+      "Nyanza",
+      "Magharibi",
+      "Kati",
+      "Bonde la Ufa"
+    ],
+    "servicesLinks": [
+      "Ufungaji",
+      "Mauzo ya Bidhaa",
+      "Matengenezo",
+      "Ushauri"
+    ],
+    "companyLinks": [
+      "Kuhusu Sisi",
+      "Wateja Wetu",
+      "Bidhaa",
+      "Wasiliana"
+    ],
+    "certifiedBy": "Wataalamu wa HVAC Wenye Cheti"
+  }
+}

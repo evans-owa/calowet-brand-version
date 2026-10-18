@@ -1,0 +1,15 @@
+# CaloWet Air – HVAC Solutions Kenya
+# https://calowetair.co.ke
+
+User-agent: *
+Allow: /
+
+# Block API routes — no indexing value
+Disallow: /api/
+
+# Block trailing slash variants — canonical has no trailing slash
+Disallow: /en/
+Disallow: /sw/
+
+# Sitemap
+Sitemap: https://calowetair.co.ke/sitemap.xml

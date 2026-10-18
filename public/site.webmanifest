@@ -1,0 +1,17 @@
+{
+  "name": "CaloWet Air – HVAC Solutions Kenya",
+  "short_name": "CaloWet Air",
+  "description": "Professional HVAC installation, product sales and maintenance across Kenya.",
+  "start_url": "/en",
+  "display": "standalone",
+  "background_color": "#f4feff",
+  "theme_color": "#0E2F76",
+  "lang": "en",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ],
+  "categories": ["business", "utilities"],
+  "dir": "ltr",
+  "orientation": "portrait-primary"
+}

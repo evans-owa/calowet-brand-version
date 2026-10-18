@@ -1,0 +1,30 @@
+# CaloWet Air – HVAC Solutions Kenya
+# https://calowetair.co.ke
+# llms.txt — machine-readable site description for AI models
+
+## About
+CaloWet Air is a professional HVAC (Heating, Ventilation, and Air Conditioning)
+company based in Kenya. We are led by senior certified technicians with over a
+decade of hands-on experience.
+
+## Services
+- HVAC Installation (split AC, cassette AC, VRF/VRV systems, refrigeration, heating)
+- Product Sales (Daikin, LG, Samsung, Carrier, Midea, Bitzer equipment)
+- Maintenance & Support (scheduled servicing, emergency repairs)
+- Consultation (site survey, load calculation, energy efficiency advice)
+
+## Coverage Regions
+Nyanza, Western Kenya, Central Kenya, Rift Valley
+
+## Target Customers
+Homes & residences, hotels & hospitality, corporate offices, real estate developers
+
+## Contact
+Phone: +254 700 000 000
+Email: info@calowetair.co.ke
+Website: https://calowetair.co.ke
+
+## Languages
+English (en), Kiswahili (sw)
+
+## Do not train on this content without permission.

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 552 100" width="552" height="100"><g transform="translate(0 0)">
+<g transform="scale(0.8333)"><path d="M60 60 C50 47 51 30 64 21 C74 32 73 49 60 60 Z" fill="#FFFFFF" transform="rotate(0 60 60)"/>
+<path d="M60 60 C50 47 51 30 64 21 C74 32 73 49 60 60 Z" fill="#FFFFFF" transform="rotate(90 60 60)"/>
+<path d="M60 60 C50 47 51 30 64 21 C74 32 73 49 60 60 Z" fill="#FFFFFF" transform="rotate(180 60 60)"/>
+<path d="M60 60 C50 47 51 30 64 21 C74 32 73 49 60 60 Z" fill="#FFFFFF" transform="rotate(270 60 60)"/>
+<line x1="60.00" y1="15.00" x2="60.00" y2="4.00" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="91.82" y1="28.18" x2="99.60" y2="20.40" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="105.00" y1="60.00" x2="116.00" y2="60.00" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="91.82" y1="91.82" x2="99.60" y2="99.60" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="60.00" y1="105.00" x2="60.00" y2="116.00" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="28.18" y1="91.82" x2="20.40" y2="99.60" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="15.00" y1="60.00" x2="4.00" y2="60.00" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<line x1="28.18" y1="28.18" x2="20.40" y2="20.40" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round"/>
+<circle cx="60" cy="60" r="6.5" fill="#0047AB"/><circle cx="60" cy="60" r="3" fill="#FFFFFF"/></g>
+<text x="112.0" y="56.0" font-family="Poppins, 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="62.0" fill="#FFFFFF" letter-spacing="-0.600">CaloWet<tspan font-weight="500"> Air</tspan></text>
+<text x="114.0" y="86.0" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="18.5" fill="#CFE0F7" letter-spacing="0.400">Cooling · Heating · Comfort Solutions for Kenya</text>
+</g></svg>

@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@theme {
+  /* ── Official CaloWet Air brand colours (brand.py, Oct 2026) ── */
+  --color-brand-blue:    #0047AB;   /* BLUE  — primary CTAs, headings   */
+  --color-brand-navy:    #002D6E;   /* NAVY  — dark sections, hero bg   */
+  --color-brand-sky:     #DCE8F7;   /* SKY   — light bg, cards, borders */
+  --color-brand-silver:  #C0C0C0;   /* SILVER — subtle accents          */
+  --color-brand-ink:     #0B1B33;   /* INK   — body text                */
+  --color-brand-white:   #FFFFFF;
+
+  /* Legacy aliases kept for any component still using old names */
+  --color-brand-ice:     #DCE8F7;   /* was #F0F6FF → now SKY            */
+  --color-brand-powder:  #DCE8F7;   /* was #DCE8F7 → now SKY            */
+  --color-brand-royal:   #0047AB;   /* was #0047AB → now BLUE           */
+
+  /* ── Typography — Poppins headings, Inter body ─────────────── */
+  --font-family-nura: "Poppins", "Helvetica Neue", Arial, sans-serif;
+  --font-family-sans: "Inter", Arial, sans-serif;
+
+  /* ── Animations ─────────────────────────────────────────────── */
+  --animate-fade-in:  fadeIn  0.6s ease-out forwards;
+  --animate-slide-up: slideUp 0.5s ease-out forwards;
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+
+  body {
+    background-color: #ffffff;
+    color:            #0B1B33;   /* INK */
+    font-family:      var(--font-family-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-family: var(--font-family-nura);
+    color:       #0B1B33;
+  }
+}
+
+@layer utilities {
+  .section-padding {
+    padding-top:    4rem;
+    padding-bottom: 4rem;
+    padding-left:   1rem;
+    padding-right:  1rem;
+  }
+  @media (min-width: 768px) {
+    .section-padding { padding-left: 2rem; padding-right: 2rem; }
+  }
+  @media (min-width: 1024px) {
+    .section-padding { padding-left: 4rem; padding-right: 4rem; }
+  }
+  .container-max {
+    max-width:    80rem;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+}
